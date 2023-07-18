@@ -1,8 +1,10 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vs704vs.github.io/Vishal-Sharma-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal79/)
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+## Contact
+
+Please reach out at vs704.vs@gmail.com
+
